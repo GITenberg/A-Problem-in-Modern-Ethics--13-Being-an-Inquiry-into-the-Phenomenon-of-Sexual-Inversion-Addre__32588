@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1504
     wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32588#A-Problem-in-Modern-Ethics--13-Being-an-Inquiry-into-the-Phenomenon-of-Sexual-Inversion-Addre_
 gutenberg_issued: '2010-05-29'
 gutenberg_type: Text
 identifiers:
